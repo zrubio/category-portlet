@@ -1,0 +1,4 @@
+Bundle-Name: category-portlet
+Bundle-SymbolicName: com.zrubio.docs.category.portlet
+Bundle-Version: 1.0.0
+Export-Package: com.zrubio.docs.category.portlet.constants
